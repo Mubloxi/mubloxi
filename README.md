@@ -1,3 +1,9 @@
+# 💫 About Me:
+
+Hey, I'm Mu_bloxi<br><br>**Developer • Builder • Self-hosting enjoyer • Tech enthusiast**<br><br>I build websites, web apps, APIs, bots, Minecraft systems, servers, and random projects that I think are cool.<br><br>I'm especially interested in **full-stack development, backend systems, infrastructure, Minecraft & Modrinth projects, automation, and self-hosting**.<br><br>
+
+---
+
 # 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
@@ -46,11 +52,6 @@ I'm comfortable working with:<br>
 * Self-hosted services
 * Containerized applications
 * Server monitoring and troubleshooting
-
----
-
-# 💫 About Me:
-Hey, I'm Mu_bloxi<br><br>**Developer • Builder • Self-hosting enjoyer • Tech enthusiast**<br><br>I build websites, web apps, APIs, bots, Minecraft systems, servers, and random projects that I think are cool.<br><br>I'm especially interested in **full-stack development, backend systems, infrastructure, Minecraft & Modrinth projects, automation, and self-hosting**.<br><br>
 
 ---
 
