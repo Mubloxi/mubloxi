@@ -14,7 +14,7 @@ Hey, I'm Mu_bloxi<br><br>**Developer • Builder • Self-hosting enjoyer • Te
 
 ### Backend & APIs
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
 
 I build APIs for things like:<br>
 * Minecraft data
