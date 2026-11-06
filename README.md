@@ -1,121 +1,60 @@
-# 💫 About Me:
+<div align="center">
 
-Hey, I'm Mu_bloxi<br><br>**Developer • Builder • Self-hosting enjoyer • Tech enthusiast**<br><br>I build websites, web apps, APIs, bots, Minecraft systems, servers, and random projects that I think are cool.<br><br>I'm especially interested in **full-stack development, backend systems, infrastructure, Minecraft & Modrinth projects, automation, and self-hosting**.<br><br>
+# Hi there, I'm Mu_bloxi 👋
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Developer+from+North+Macedonia;Building+websites%2C+APIs+%26+tools;Linux+%7C+Proxmox+%7C+Self-hosting;Always+working+on+something+new" alt="Animated introduction: developer, websites, APIs, Linux and self-hosting" />
 
-# 💻 Tech Stack
+**Full-stack development · Servers · Automation · Minecraft**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+<a href="https://github.com/Mubloxi"><img src="https://img.shields.io/badge/GitHub-Mubloxi-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://www.youtube.com/@Mubloxi"><img src="https://img.shields.io/badge/YouTube-Mubloxi-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube channel" /></a>
+<a href="https://www.ko-fi.com/mubloxi"><img src="https://img.shields.io/badge/Ko--fi-Support_me-FF5E5B?style=flat-square&logo=kofi&logoColor=white" alt="Support on Ko-fi" /></a>
 
-### Frontend
+</div>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## About me
 
-### Backend & APIs
+I'm a developer from **North Macedonia** who likes building useful things and figuring out how they work. I make websites, APIs, automation tools, Minecraft projects, and run my own servers.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
+- Currently building **[Elite Dangerous Command Center](https://edcc.lol)** and **[The Black Hole Bay](https://theblackholebay.lol)**.
+- Into **backend development, Linux, Proxmox, networking, and self-hosting**.
+- Usually experimenting with another project or fixing something in my homelab.
 
-I build APIs for things like:<br>
-* Minecraft data
-* Authentication
-* Discord integrations
-* Databases
-* File handling
-* Automation
-* Search systems
-* Web applications
-* Third-party API integrations
+## Languages & tools
 
-### Databases
+<div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)<br>![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,tailwind,nodejs,express,nextjs&perline=10" alt="JavaScript, TypeScript, Python, Java, HTML, CSS, Tailwind CSS, Node.js, Express, Next.js" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,linux,docker,nginx,cloudflare,git,github,vscode,discord&perline=10" alt="PostgreSQL, SQLite, Linux, Docker, Nginx, Cloudflare, Git, GitHub, VS Code, Discord" />
 
-I work with relational databases, API-driven applications, authentication systems, and backend data models.
+</div>
 
-### DevOps & Infrastructure
+## Things I've built
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)<br>![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)<br>![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)<br>![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- **[Elite Dangerous Command Center](https://edcc.lol)** — Local-first desktop companion for Elite Dangerous.
+- **[The Black Hole Bay](https://theblackholebay.lol)** — DHT-powered torrent search engine with its own API.
+- **Minecraft & Discord projects** — Servers, events, bots, plugins, and automation.
 
-I'm comfortable working with:<br>
-* Linux servers
-* VPS infrastructure
-* Proxmox
-* Docker
-* Reverse proxies
-* Nginx
-* SSL/TLS
-* Cloudflare
-* DNS
-* Domain routing
-* Port forwarding
-* Self-hosted services
-* Containerized applications
-* Server monitoring and troubleshooting
+## GitHub activity
 
----
+<div align="center">
 
-## What I Do
+<img src="https://github-readme-stats.vercel.app/api?username=Mubloxi&show_icons=true&theme=github_dark&hide_border=true" alt="Mubloxi GitHub statistics" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubloxi&layout=compact&theme=github_dark&hide_border=true" alt="Mubloxi most used repository languages" height="155" />
 
-* Building full-stack applications and APIs
-* Working with modern web technologies
-* Running and managing my own Linux servers
-* Building Discord bots and automation
-* Developing Minecraft projects and publishing on Modrinth
-* Experimenting with Modrinth APIs and external services
-* Working with databases and backend infrastructure
-* Running services with Docker, Proxmox, Nginx and Cloudflare
-* Interested in networking, servers, APIs and DevOps
-* Constantly building something new
+<img src="https://streak-stats.demolab.com?user=Mubloxi&theme=github-dark-blue&hide_border=true" alt="Mubloxi GitHub contribution streak" />
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mubloxi&theme=github-compact&hide_border=true" alt="Mubloxi GitHub contribution activity graph" width="95%" />
 
-## Minecraft & Modrinth
+</div>
 
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
-![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)
+## Support me
 
-I build, run, and manage Minecraft projects and servers using things like:<br>
-* Paper
-* Forge
-* Plugins
-* Mods
-* World management
-* Server optimization
-* Custom events
+<a href="https://www.ko-fi.com/mubloxi"><img src="https://img.shields.io/badge/Buy_me_a_coffee-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support me on Ko-fi" /></a>
 
----
+<div align="center">
 
-## Discord Development
+<sub>Thanks for stopping by. I'm probably working on another side project right now.</sub>
 
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-I've built Discord bots and systems for:<br>
-* Moderation
-* Roles & permissions
-* Server automation
-* Community tools
-* Event systems
-* API integrations
-* Custom commands
-
----
-
-## Tools I Use
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)<br>![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)<br>![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-## Things I've Built
-
-### The Black Hole Bay
-A torrent search engine project with its own web interface, search system, APIs and infrastructure.<br>
-**Stack:** Web frontend • APIs • Search • Nginx • Cloudflare • Linux
-
----
-
-
-### Discord Bots & Automation
-Various Discord bots and automation projects for communities, servers and personal projects.<br>
-**Stack:** Python • Discord APIs • REST APIs
+</div>
