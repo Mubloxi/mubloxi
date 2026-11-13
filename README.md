@@ -40,12 +40,12 @@ I'm a developer from **North Macedonia** who likes building useful things and fi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mubloxi&show_icons=true&theme=github_dark&hide_border=true" alt="Mubloxi GitHub statistics" height="155" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mubloxi&show_icons=true&theme=github_dark&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubloxi&layout=compact&theme=github_dark&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=Mubloxi&theme=github-dark-blue&hide_border=true"  />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mubloxi&theme=github-compact&hide_border=true" alt="Mubloxi GitHub contribution activity graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mubloxi&theme=github-compact&hide_border=true"  />
 
 </div>
 
