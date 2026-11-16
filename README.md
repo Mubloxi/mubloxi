@@ -33,6 +33,7 @@ I'm a developer from **North Macedonia** who likes building useful things and fi
 ## Things I've built
 
 - **[Elite Dangerous Command Center](https://edcc.lol)** — Local-first desktop companion for Elite Dangerous.
+- **[EDBio](https://github.com/Mubloxi/EDBio)** — Exo Biology Helper App For Elite Dangerous.
 - **[The Black Hole Bay](https://theblackholebay.lol)** — DHT-powered torrent search engine with its own API.
 - **Minecraft & Discord projects** — Servers, events, bots, plugins, and automation.
 
